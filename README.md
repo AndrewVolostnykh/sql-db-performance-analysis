@@ -13,6 +13,7 @@ Here is a looking at different performance cases in different business contexts.
 - [GIST index Analyze](indexes/gist/ANALYZE_RESULT.md)
 - [HASH index Analyze](indexes/hash/ANALYZE_RESULT.md)
 - [SP-GIST index Analyze](indexes/spgist/ANALYZE_RESULT.md)
+- [Indexes overload](indexes/overload/ANALYZE_RESULT.md)
 
 #### Sharding
 
